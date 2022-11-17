@@ -1,0 +1,1 @@
+Learn how we can limit and skip documents in MongoDB using the LIMIT() and SKIP() methods respectively.

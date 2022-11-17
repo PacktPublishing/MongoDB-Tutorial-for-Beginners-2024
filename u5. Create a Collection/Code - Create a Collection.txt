@@ -1,0 +1,21 @@
+show dbs;
+
+use amitdb;
+
+show dbs;
+
+db.createCollection("employee")
+
+show collections
+
+db.employee.insert({"empname":"emma"})
+
+show dbs;
+
+db.department.insert({"deptname":"operations"})
+
+show collections;
+
+db.employee.find()
+
+db.employee.find().pretty()

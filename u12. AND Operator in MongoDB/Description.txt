@@ -1,0 +1,1 @@
+Learn to implement AND Operator in MongoDB and retrieve documents satisfying all the conditions.

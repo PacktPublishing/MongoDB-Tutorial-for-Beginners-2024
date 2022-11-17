@@ -1,0 +1,48 @@
+show dbs;
+
+use demo;
+
+
+
+db.employee.insert({"empname":"Emma", empage: 27, empzone: "East", empdept: "Marketing"})
+
+db.employee.find()
+
+db.employee.insert({"empname":"Brad", empage: 25, empzone: "North", empdept: "Finance"})
+
+db.employee.find()
+
+
+
+db.department.insertOne({
+ deptname: "Marketing",
+ deptmanager: "Jacob",
+ deptrank: 3
+})
+
+db.department.find()
+
+
+
+db.client.insertMany([{
+ clientname: "ABC Tech",
+ clientcountry: "Australia",
+ clientdept: "Marketing"
+},
+{
+ clientname: "KK Consultants",
+ clientcountry: "England",
+ clientdept: "HR"
+},
+{
+ clientname: "Insights Limiteds",
+ clientcountry: "India",
+ clientdept: "IT"
+}])
+
+db.client.find()
+
+db.client.find().pretty()
+
+
+show collections

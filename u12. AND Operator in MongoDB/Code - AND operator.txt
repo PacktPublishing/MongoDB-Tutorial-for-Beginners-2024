@@ -1,0 +1,14 @@
+show dbs;
+
+use demo
+
+show collections
+
+db.employee.find().pretty()
+
+db.employee.find({$and: [{"empage":25},{"empdept":"Operations"}]}).pretty()
+
+
+
+
+

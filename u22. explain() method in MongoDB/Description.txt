@@ -1,0 +1,1 @@
+Learn how to implement the explain() method in MongoDB. MongoDB explain() provides information on the query plan.

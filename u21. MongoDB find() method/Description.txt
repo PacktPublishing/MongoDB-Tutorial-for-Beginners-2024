@@ -1,0 +1,1 @@
+Learn to implement the find() method in MongoDB and display documents i.e. fetch documents from a collection.

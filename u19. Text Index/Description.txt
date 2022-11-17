@@ -1,0 +1,1 @@
+Learn how to create and delete Text Index in MongoDB.

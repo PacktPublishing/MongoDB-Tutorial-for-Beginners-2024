@@ -1,0 +1,1 @@
+Learn to drop a database in MongoDB. Dropping a database deletes the entire database and all its collections.

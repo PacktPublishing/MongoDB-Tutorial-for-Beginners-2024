@@ -1,0 +1,26 @@
+show dbs;
+
+use demo
+
+show collections
+
+
+db.employee.find()
+
+db.employee.find().pretty()
+
+db.employee.find().limit(2)
+
+db.employee.find().limit(2).pretty()
+
+
+db.client.find()
+
+db.client.find().pretty()
+
+db.client.find().skip(1)
+
+db.client.find().skip(1).pretty()
+
+
+db.client.find().limit(1).skip(1).pretty()

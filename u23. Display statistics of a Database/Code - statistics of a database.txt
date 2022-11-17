@@ -1,0 +1,9 @@
+show dbs;
+
+use demo
+
+db.stats()
+
+show collections
+
+

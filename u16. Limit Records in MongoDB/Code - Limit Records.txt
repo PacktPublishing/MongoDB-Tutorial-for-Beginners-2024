@@ -1,0 +1,12 @@
+show dbs;
+
+use demo
+
+show collections
+
+db.employee.find().pretty()
+
+db.employee.find().limit(2)
+
+db.employee.find().limit(2).pretty()
+

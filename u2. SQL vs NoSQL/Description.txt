@@ -1,0 +1,1 @@
+Learn how SQL and NoSQL are different. We have considered the example of MySQL (SQL-based) and MongoDB (NoSQL based) to understand the concept. We will also see what are collections and documents in MongoDB and how they are different from tables and rows in MySQL.

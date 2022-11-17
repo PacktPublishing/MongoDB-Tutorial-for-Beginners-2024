@@ -1,0 +1,1 @@
+Learn how to implement the stats() method in MongoDB. This method returns a document with statistics of the database like collections, views, objects, storageSize, indexes, indexSize, totalSize, etc.

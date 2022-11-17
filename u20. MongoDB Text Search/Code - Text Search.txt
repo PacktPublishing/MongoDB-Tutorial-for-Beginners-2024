@@ -1,0 +1,17 @@
+show dbs;
+
+use demo
+
+show collections
+
+
+db.employee.find()
+
+db.department.find()
+
+db.client.find()
+
+
+db.employee.find().pretty()
+
+db.client.find().pretty()

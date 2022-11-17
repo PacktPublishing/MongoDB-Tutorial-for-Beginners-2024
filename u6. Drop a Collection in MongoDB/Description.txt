@@ -1,0 +1,1 @@
+Learn to drop a collection in MongoDB. Dropping a collection deletes the entire collection and all its documents and fields. 

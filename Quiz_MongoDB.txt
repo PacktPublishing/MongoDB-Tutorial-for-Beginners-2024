@@ -1,0 +1,90 @@
+Q1. MongoDB is a ______ database
+    SQL
+	NoSQL (Answer)
+	
+Q2. Which command is used to display all the databases in MongoDB?
+    show databases
+	display databases
+	show dbs (Answer)
+	display dbs
+
+Q3. Which method is used to delete a database in MongoDB?
+    dropDatabase() (Answer)
+	dropDB()
+    delDB()
+    deleteDatabase()
+
+Q4. Which method is used to insert a single document in a MongoDB Collection?
+    insertion()
+	insertOne() (Answer)
+	addOne()
+	add() 
+	
+Q5. Which method is used to insert multiple documents in a MongoDB Collection?
+    insertMany() (Answer)
+	addMany()
+	insertion()
+	None of the Above
+
+Q6. Which method is used to display MongoDB documents in a formatted way?
+	format()
+	formatted()
+	prettyDoc()
+	pretty() (Answer)
+	
+Q7. Which command is used to show all the Collections in a MongoDB database?
+    display collections
+	show collections (Answer)
+	displayall collections
+	showall collections
+	
+Q8. Which operation selects the MongoDB documents that fail all the query expressions in the array?
+    AND
+    OR
+    NOT
+    NOR (Answer)
+
+Q9. Which method is used to sort documents in MongoDB?
+    sorting()
+    sorted()
+	sort() (Answer)
+	None of the Above
+	
+Q10. Which method is used to create an index in MongoDB?
+    formIndex()
+	createIndex() (Answer)
+	indexCreation()
+	addIndex()
+
+Q11. Can we use MongoDB LIMIT() and SKIP() in the same query?
+     Yes (Answer)
+	 No
+	 
+Q12. How to perform Text Search in MongoDB?
+     Use $text operator (Answer)
+	 Use $regex operator
+	 Use $where operator
+	 None of the Above
+	 
+Q13. Which method is used in MongoDB to get the query planner and server info?
+     getMongo()
+	 getCollectionInfo()
+	 explain() (Answer)
+	 help()
+	 
+Q14. Which method is used to display the statistics of a Database in MongoDB?
+     statistics()
+	 explain()
+	 stats() (Answer)
+	 getDbInfo()
+
+Q 15. ________ is used in MongoDB to Group values from multiple documents together and perform operations on the grouped data to return a single result
+   Aggregation  (Answer)
+   Indexing
+   Sharding
+   None of the Above
+
+     	 
+     
+	
+	

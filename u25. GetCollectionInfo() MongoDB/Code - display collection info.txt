@@ -1,0 +1,9 @@
+show dbs;
+
+use demo
+
+show collections
+
+db.getCollectionInfos()
+
+

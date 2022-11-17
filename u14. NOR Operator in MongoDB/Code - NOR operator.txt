@@ -1,0 +1,20 @@
+show dbs;
+
+use demo
+
+show collections
+
+db.employee.find().pretty()
+
+db.employee.find({$nor: [{empage:24},{empname:"Bradley"}]})
+
+db.employee.find({$nor: [{empage:24},{empname:"Bradley"}]}).pretty()
+
+db.employee.find({$nor: [{empage:25},{empname:"Bradley"}]}).pretty()
+
+
+
+
+
+
+

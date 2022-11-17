@@ -1,0 +1,14 @@
+show dbs;
+
+use demo
+
+show collections
+
+db.employee.find()
+
+db.employee.find().pretty()
+
+db.employee.find().explain()
+
+
+

@@ -1,0 +1,6 @@
+db.employee.find()
+db.department.find()
+db.client.find()
+
+
+

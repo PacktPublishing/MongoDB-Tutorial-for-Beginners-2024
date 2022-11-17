@@ -1,0 +1,1 @@
+Learn how to implement the listCommands() method in MongoDB. This method displays a list of all database commands

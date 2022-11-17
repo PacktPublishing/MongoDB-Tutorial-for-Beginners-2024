@@ -1,0 +1,8 @@
+db.employee.find()
+db.employee.find().pretty()
+
+db.department.find()
+db.department.find().pretty()
+
+
+

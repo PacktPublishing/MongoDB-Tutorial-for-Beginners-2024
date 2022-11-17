@@ -1,0 +1,19 @@
+show dbs;
+
+use demo
+
+show collections
+
+db.client.find().pretty()
+
+db.client.find().sort({"clientdept":1})
+
+db.client.find().sort({"clientdept":1}).pretty()
+
+db.employee.find().pretty()
+
+db.employee.find().sort({"empage":1})
+
+db.employee.find().sort({"empage":1}).pretty()
+
+

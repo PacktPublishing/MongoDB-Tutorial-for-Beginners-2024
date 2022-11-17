@@ -1,0 +1,1 @@
+Learn to implement OR Operator in MongoDB to display documents satisfying at least one condition.

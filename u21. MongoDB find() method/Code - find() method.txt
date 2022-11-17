@@ -1,0 +1,12 @@
+show dbs;
+
+use demo
+
+show collections
+
+db.employee.find().pretty()
+
+db.employee.createIndex({empzone:"text"})
+
+db.employee.find({$text:{$search:"North"}}).pretty()
+

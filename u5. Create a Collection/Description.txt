@@ -1,0 +1,1 @@
+Learn to create a new Collection in MongoDB with live examples. A Database has a group of collections.

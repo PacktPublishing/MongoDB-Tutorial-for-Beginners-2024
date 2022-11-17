@@ -1,0 +1,14 @@
+show dbs;
+
+use demo
+
+show collections
+
+db.employee.find().pretty()
+
+db.employee.aggregate([{$group : {_id: "$empzone", total: {$sum:1}}}])
+
+
+
+
+

@@ -1,0 +1,1 @@
+Learn to implement the skip() method in MongoDB and skip documents from the query results while displaying.

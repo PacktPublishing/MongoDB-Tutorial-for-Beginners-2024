@@ -1,0 +1,6 @@
+Learn to insert documents in a MongoDB collection. A collection in MongoDB has documents and fields.
+
+Insert documents using the following methods:
+ - insert(): Insert document
+ - insertOne(): Insert a single document
+ - insertMany(): Insert multiple documents

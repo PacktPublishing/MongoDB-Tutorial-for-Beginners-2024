@@ -1,0 +1,9 @@
+show dbs;
+
+use amitdb;
+
+show dbs;
+
+db.emp.insert({"empname":"Tom","empage": 25})
+
+show dbs;

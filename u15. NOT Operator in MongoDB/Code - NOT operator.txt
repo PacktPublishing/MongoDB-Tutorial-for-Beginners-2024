@@ -1,0 +1,18 @@
+show dbs;
+
+use demo
+
+show collections
+
+db.employee.find().pretty()
+
+db.employee.find({"empage":{$not:{$eq: 29)}})
+
+db.employee.find({"empage":{$not:{$eq: 29)}}).pretty()
+
+
+
+
+
+
+

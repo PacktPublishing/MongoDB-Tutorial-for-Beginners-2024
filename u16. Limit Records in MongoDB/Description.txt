@@ -1,0 +1,1 @@
+Learn to implement the limit() method in MongoDB and display limited number of documents.

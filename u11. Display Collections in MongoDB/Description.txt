@@ -1,0 +1,1 @@
+Learn to display all the collections in a specific MongoDB database.

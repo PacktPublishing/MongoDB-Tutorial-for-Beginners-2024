@@ -1,0 +1,1 @@
+Learn how to download and install MongoDB on Windows 10. We will also see how to set the path and run mongo with mongod (daemon).

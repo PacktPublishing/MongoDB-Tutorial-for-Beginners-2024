@@ -1,0 +1,16 @@
+show dbs;
+
+use demo
+
+show collections
+
+db.employee.find().pretty()
+
+db.employee.find().skip(1)
+
+db.employee.find().skip(1).pretty()
+
+db.employee.find().skip(1).pretty()
+
+
+

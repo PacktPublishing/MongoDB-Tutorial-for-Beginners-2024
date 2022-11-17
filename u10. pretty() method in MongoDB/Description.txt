@@ -1,0 +1,1 @@
+Learn to implement the pretty() method in MongoDB and display formatted documents as result. The find() method displays documents and pretty() displays in a formatted way.
